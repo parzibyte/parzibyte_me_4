@@ -11,3 +11,7 @@ Y en producción
 ```bash
 tailwindcss -i input.css -o style.css -m
 ```
+
+# Desplegando
+
+Simplemente sube `index.html` y `style.css` al servidor
